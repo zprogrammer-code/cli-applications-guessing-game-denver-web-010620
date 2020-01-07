@@ -11,6 +11,5 @@ def run_guessing_game
   end
   if input != number
    puts "Sorry! The computer guessed #{number}."
-    prompt = puts "guess a number between 1 and 6\n"
    end
  end
